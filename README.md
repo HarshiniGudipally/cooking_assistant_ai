@@ -21,6 +21,7 @@ cooking-assistant-ai/
 │   ├── Dockerfile      # Docker deployment
 │-- frontend/
 │   ├── app.py          # Streamlit frontend
+│   ├── Dockerfile      # Docker deployment
 │-- tests/
 │   ├── test_api.py     # Unit tests
 │-- .env                # API keys (excluded from version control)
@@ -37,7 +38,7 @@ cooking-assistant-ai/
 
 ### Clone the repository:
 ```sh
-git clone https://github.com/HarshiniGudipally/GraphDataScience.git
+git clone https://github.com/HarshiniGudipally/cooking_assistant_ai.git
 cd cooking_assistant_ai
 ```
 
