@@ -38,7 +38,7 @@ cooking-assistant-ai/
 ### Clone the repository:
 ```sh
 git clone https://github.com/HarshiniGudipally/GraphDataScience.git
-cd cooking-assistant-ai
+cd cooking_assistant_ai
 ```
 
 ### Set up a virtual environment:
