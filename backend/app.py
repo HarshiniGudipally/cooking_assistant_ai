@@ -4,7 +4,7 @@ from sqlalchemy.orm import declarative_base
 from sqlalchemy.orm import sessionmaker
 from pydantic import BaseModel
 from datetime import datetime
-from backend import openai_service
+import openai_service
 from typing import List
 
 # Database setup

@@ -21,3 +21,5 @@ pytest
 
 sqlalchemy
 pydantic
+datetime
+typing

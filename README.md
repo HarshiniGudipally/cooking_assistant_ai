@@ -63,7 +63,7 @@ OPENAI_API_KEY=your_api_key_here
 ### Local Development
 #### Start the backend:
 ```sh
-uvicorn backend/app:app --reload
+uvicorn backend.app:app --reload
 ```
 
 #### Start the frontend:
