@@ -1,0 +1,23 @@
+# FastAPI framework for building backend APIs
+fastapi
+
+# ASGI server for serving FastAPI applications
+uvicorn
+
+# OpenAI API client for AI-based query processing
+openai
+
+# Environment variable management
+python-dotenv
+
+# Frontend framework for quick prototyping
+streamlit
+
+# HTTP client for making API requests in tests
+httpx
+
+# Testing framework
+pytest
+
+sqlalchemy
+pydantic
