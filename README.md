@@ -37,7 +37,7 @@ cooking-assistant-ai/
 
 ### Clone the repository:
 ```sh
-git clone https://github.com/yourusername/cooking-assistant-ai.git
+git clone https://github.com/HarshiniGudipally/GraphDataScience.git
 cd cooking-assistant-ai
 ```
 
