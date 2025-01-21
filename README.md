@@ -37,7 +37,7 @@ cooking-assistant-ai/
 
 ### Clone the repository:
 ```sh
-git clone https://github.com/HarshiniGudipally/GraphDataScience.git
+git clone https://github.com/HarshiniGudipally/cooking_assistant_ai.git
 cd cooking_assistant_ai
 ```
 
@@ -59,11 +59,13 @@ OPENAI_API_KEY=your_api_key_here
 ```
 
 ## Running the Application
+### Run database
+python database.py
 
 ### Local Development
 #### Start the backend:
 ```sh
-uvicorn backend/app:app --reload
+uvicorn backend.app:app --reload
 ```
 
 #### Start the frontend:
